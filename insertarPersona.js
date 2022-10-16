@@ -1,4 +1,3 @@
-require("colors")
 const fs = require("fs");
 const argv = require("./config/yargs.js")
 const { leerArchivo } = require("./lectorArchivo.js")
